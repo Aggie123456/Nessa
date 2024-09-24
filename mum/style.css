@@ -1,0 +1,26 @@
+body{
+    background-color:burlywood;
+    color:green;
+    text-align: center;
+    font-style: Arial(sans-serif);
+    size: 30;
+    display:inline-block;
+    margin: 4px 4px;
+    text-decoration: none;
+    padding: 15px 32px;
+    border:aqua ;
+
+    h2{
+color:green;
+font-family:verdana;
+font: size 45%;
+    }
+    text{
+        padding: 20px;
+        border: 2pxsolid powderblue;
+    }
+    image-resolution: 100%;
+
+
+
+}
